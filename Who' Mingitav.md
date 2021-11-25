@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mingitav
+- 👋 Hi, I’m @Mingitav I'm new to software world, I'm learning Kotlin and Java.
 - 👀 I’m interested in Kotlin and Java
 - 🌱 I’m currently learning Kotlin and Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Instagram and Twitter
 - Instagram: karacaypaccah
 - twitter:   karacaypaccah
