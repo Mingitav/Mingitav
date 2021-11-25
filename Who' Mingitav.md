@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Kotlin and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Instagram and Twitter
-Instagram: karacaypaccah  
-Twitter:   karacaypaccah
+- Instagram: karacaypaccah
+- twitter:   karacaypaccah
 
 <!---
 Mingitav/Mingitav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
